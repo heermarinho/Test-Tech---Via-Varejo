@@ -44,7 +44,7 @@ Essa aplicação precisa ter os arquivos de configuração do terraform
 
 ## Arquitetura PROPOSTA 🖥
  
- ![](https://raw.githubusercontent.com/viavarejo-internal/Test-T-cnico-MLOPs-/master/5874a6bb-f8e7-4838-8c52-9e888ab0369e.png?token=ATB2NS3UWPBXSGHM4BPLRVTBJTC4S)
+ ![](https://raw.githubusercontent.com/heermarinho/Test-Tech---Via-Varejo/main/5874a6bb-f8e7-4838-8c52-9e888ab0369e%20(1).png?token=ATB2NS6PA7KZ75IYX6NMJJDBJSO6U)
 
 ## OBJETO DE AVALIAÇÃO ✅
 
